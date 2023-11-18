@@ -1,1 +1,1 @@
-sample master file
+sample master file modified
